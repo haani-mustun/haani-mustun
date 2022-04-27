@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Haani Mustun
-- 👀 I’m interested in improving my current coding ability but completing tasks online!
+- 👀 I’m interested in improving my current coding ability by completing tasks online!
 - 🌱 I’m currently improving my c# coding ability, however I will be learning python as well.
 - 📫 How to reach me: haanimustun@hotmail.co.uk
